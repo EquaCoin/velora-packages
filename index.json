@@ -1,9 +1,11 @@
 {
   "packages": {
     "math-lib": {
-      "url": "file:///tmp/math-lib.tar.gz",
+      "url": "https://github.com/EquaCoin/math-lib/releases/download/v1.0.0/math-lib.tar.gz",
       "version": "1.0.0",
-      "description": "Math library for Velora"
+      "description": "Math library for Velora - square, cube, factorial, fibonacci, is_prime, gcd, lcm, max, min, clamp",
+      "author": "EquaCoin",
+      "license": "MIT"
     }
   }
 }
