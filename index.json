@@ -1,9 +1,9 @@
 {
   "packages": {
-    "quantum-lib": {
-      "url": "https://github.com/EquaCoin/quantum-lib/releases/download/v1.0/package.tar.gz",
+    "math-lib": {
+      "url": "file:///tmp/math-lib.tar.gz",
       "version": "1.0.0",
-      "description": "Quantum computing library for Velora"
+      "description": "Math library for Velora"
     }
   }
 }
